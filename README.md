@@ -1,3 +1,3 @@
 # tic-tac-toe-api
 
-Will have tic-tac-toe multiplayer mode related code.
+Will have code logic for multiplayer mode.
